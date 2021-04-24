@@ -1,0 +1,30 @@
+body{
+    font-family: serif;
+}
+.heading{
+    background-color: rgba(40, 91, 148, 0.555);
+    color: white;
+    text-transform: uppercase;
+    text-align: center;    
+    letter-spacing: 10px;
+}
+.photo{
+    background-color: rgb(234, 250, 250);
+    text-align: center;
+}
+img{
+    width: 200px; height: 200px;
+    box-shadow: 0px 4px 4px red;
+}
+p{
+    color: white;
+}
+p span{
+    color: red;
+}
+.contents{
+    background-color: rgba(145, 164, 185, 0.514);
+}
+.contents li{
+    color: red;
+}
